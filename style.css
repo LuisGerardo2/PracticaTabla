@@ -1,10 +1,12 @@
 th{
-	font-family:"Gill Sans", sans-serif ;
+	font-family:"Georgia", sans-serif ;
 	background-color: #FFC300;
 	text-decoration:;
 }
+pre{
+	font-family: unset;
+}
 td{
-	font-family: Georgia, serif;
 	background-color: #FEDEDE;
 }
 #luis1{
